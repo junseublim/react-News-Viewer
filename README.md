@@ -2,10 +2,8 @@
 
 ## How To run
 ```
-```
 $ yarn install
 $ yarn start
-```
 ```
 
 ## 학습 노트
